@@ -4,5 +4,10 @@
 
 <p>O projeto é uma loja virtual simples e foi realizado mais como treinamento. </p>
 <p>Também foi gerado um layout responsivo.</p>
-
+<br>
+<br>
+<img src="https://github.com/rachelbsa/easy-shop/blob/master/easy-mobie.png?raw=true" />
+<br>
+<br>
 <img src="https://github.com/rachelbsa/easy-shop/blob/master/easy-pc.png?raw=true" />
+
